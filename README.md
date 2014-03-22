@@ -12,9 +12,11 @@ Query-Builder
 * Configuration: Services and Team remedy groups can be configured in "query_builder.conf" 
 
 * TODO:
-- PBI tab
-- CRQ tab
-- calendar widget for dates
-- Add config editor
-- Add all (included only) checkbox for Services/Groups/Companies
-- Add saved and load search
+
+1. PBI tab
+2. CRQ tab
+3. calendar widget for dates
+4.-Add config editor
+5. Add all (included only) checkbox for Services/Groups/Companies
+6. Add saved and load search
+7. Use PyArs to perfrom the query on Remedy and return the result
