@@ -12,9 +12,9 @@ Query-Builder
 * Configuration: Services and Team remedy groups can be configured in "query_builder.conf" 
 
 * TODO:
-- PBI tab
-- CRQ tab
-- calendar widget for dates
-- Add config editor
-- Add all (included only) checkbox for Services/Groups/Companies
-- Add saved and load search
+PBI tab
+CRQ tab
+calendar widget for dates
+Add config editor
+Add all (included only) checkbox for Services/Groups/Companies
+Add saved and load search
