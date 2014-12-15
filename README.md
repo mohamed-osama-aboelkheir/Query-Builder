@@ -9,6 +9,8 @@ Query-Builder
 
 * Description: This application can be used to generate a BMC remedy query based on the filtering criteria dynamically provided by the user.
 
+* Wiki link https://github.com/mohamed-osama-aboelkheir/Query-Builder/wiki
+
 * Configuration: Services and Team remedy groups can be configured in "query_builder.conf" 
 
 * TODO:
